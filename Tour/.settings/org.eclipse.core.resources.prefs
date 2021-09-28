@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/dao/CT_ThamQuan_DAO.java=UTF-8
+encoding//src/dao/ChuyenDi_DAO.java=UTF-8
+encoding//src/dao/DiaChi_DAO.java=UTF-8
+encoding//src/dao/DiaDanh_DAO.java=UTF-8
+encoding//src/dao/HuongDanVien_DAO.java=UTF-8
+encoding//src/dao/KhachHang_DAO.java=UTF-8
+encoding//src/dao/NhanVien_DAO.java=UTF-8
+encoding//src/entity/KhachHang.java=UTF-8
+encoding//src/gui=UTF-8
+encoding//src/gui/Login.java=UTF-8
